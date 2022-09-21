@@ -2,18 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-I made some changes to test.
-
-Then I made another change using the internet firefox.
-
-
-# I create a new branch add-name, to add my name into this file.
-I add my name to this file, my name is Jeff
-
-Today is Wednestday, September 21.
-I make changes to learn Github.
+- 📫 How to reach me .
 
 
 <!---
