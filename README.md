@@ -15,7 +15,6 @@ I add my name to this file, my name is Jeff
 Today is Wednestday, September 21.
 I make changes to learn Github.
 
-again change
 
 <!---
 jeffwang1811/jeffwang1811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
